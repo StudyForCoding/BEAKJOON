@@ -1,6 +1,6 @@
 n = int(input())
 l = list(map(int, input().split()))
-print(min(l), max(l)
+print(min(l), max(l))
 
 n = int(input())
 l = sorted(map(int, input().split()))
