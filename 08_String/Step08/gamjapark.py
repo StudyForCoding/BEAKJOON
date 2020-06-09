@@ -1,0 +1,1 @@
+print(sum(list(map(lambda x: (int((ord(x) - 65) / 3) + 3 if not ((ord(x) - 65) in [18, 21, 24, 25]) else int((ord(x) - 65) / 3) + 2) , list(input())))))
