@@ -16,6 +16,8 @@
 - [수학1](https://github.com/StudyForCoding/BEAKJOON/tree/master/09_Math1/README.md)
 - [수학2](https://github.com/StudyForCoding/BEAKJOON/tree/master/10_Math2/README.md)
 - [재귀](https://github.com/StudyForCoding/BEAKJOON/tree/master/11_Recursion/README.md)
+- [실습](https://github.com/StudyForCoding/BEAKJOON/tree/master/12_Practice2/README.md)
+- [브루트포스](https://github.com/StudyForCoding/BEAKJOON/tree/master/13_BruteForce/README.md)
 
 ---
 
