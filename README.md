@@ -19,6 +19,9 @@
 - [실습](https://github.com/StudyForCoding/BEAKJOON/tree/master/12_Practice2/README.md)
 - [브루트포스](https://github.com/StudyForCoding/BEAKJOON/tree/master/13_BruteForce/README.md)
 - [정렬](https://github.com/StudyForCoding/BEAKJOON/tree/master/14_Sort/README.md)
+- [백트래킹](https://github.com/StudyForCoding/BEAKJOON/tree/master/15_Backtracking/README.md)
+- [동적계획법1](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/README.md)
+- [그리디 알고리즘](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/README.md)
 
 ---
 
@@ -28,3 +31,5 @@
 - 정유진
 - 박찬일
 - 박연지
+- 전영우
+- 최예송
