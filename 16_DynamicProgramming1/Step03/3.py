@@ -1,15 +1,9 @@
 N=int(input())
 
-list=[0 for i in range(50)]
+dp = [0] * 1000001
+dp[1], dp[2] = 1, 2 #1, 2번째 점화식 값 지정
 
-def fibo(n):
-    if(n==1):
-        return 1
-    if(n==2):
-        return 2 #1, 2, 3, 5, 8...으로 나가는 점화식 
-    if(list[n]!=0):
-        return list[n]
-    list[n]= fibo(n-1)+fibo(n-2)
-    return list[n]
+for i in range(3,N+1):
+    dp[i] = (dp[i-1] + dp[i-2])%15746 #1, 2, 3, 5, 8...으로 나가는 점화식 
+print(dp[N])
 
-print(fibo(N))
