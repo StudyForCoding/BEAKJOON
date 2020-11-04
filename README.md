@@ -22,6 +22,7 @@
 - [백트래킹](https://github.com/StudyForCoding/BEAKJOON/tree/master/15_Backtracking/README.md)
 - [동적계획법1](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/README.md)
 - [그리디 알고리즘](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/README.md)
+- [수학3](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/README.md)
 
 ---
 
