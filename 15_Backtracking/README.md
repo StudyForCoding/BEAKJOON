@@ -1,4 +1,4 @@
-# 정렬
+# 백트래킹
 [백준 15단계](https://www.acmicpc.net/step/34) 문제 풀이
 
 ---
