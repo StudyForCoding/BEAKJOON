@@ -1,0 +1,10 @@
+import sys
+
+N = int(sys.stdin.readline())
+num =2
+while N>1:
+    if N%num ==0:
+        print(num)
+        N //= num
+    else:
+        num+=1
