@@ -23,6 +23,7 @@
 - [동적계획법1](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/README.md)
 - [그리디 알고리즘](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/README.md)
 - [수학3](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/README.md)
+- [스택](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/README.md)
 
 ---
 
@@ -34,3 +35,4 @@
 - 박연지
 - 전영우
 - 최예송
+- 채종의
