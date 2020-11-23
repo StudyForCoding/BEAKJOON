@@ -24,6 +24,7 @@
 - [그리디 알고리즘](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/README.md)
 - [수학3](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/README.md)
 - [스택](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/README.md)
+- [큐,덱](https://github.com/StudyForCoding/BEAKJOON/tree/master/20_Queue/README.md)
 
 ---
 
