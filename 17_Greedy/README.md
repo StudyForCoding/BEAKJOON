@@ -10,3 +10,5 @@
 - ATM - [Step03](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/Step03/README.md)
 - 잃어버린 괄호 - [Step04](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/Step04/README.md)
 
+- 주유소 - [Step05](https://github.com/StudyForCoding/BEAKJOON/tree/master/17_Greedy/Step05/README.md)
+

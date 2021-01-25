@@ -25,6 +25,7 @@
 - [수학3](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/README.md)
 - [스택](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/README.md)
 - [큐,덱](https://github.com/StudyForCoding/BEAKJOON/tree/master/20_Queue/README.md)
+- [분할 정복](https://github.com/StudyForCoding/BEAKJOON/tree/master/21_DivdeConquer/README.md)
 
 ---
 

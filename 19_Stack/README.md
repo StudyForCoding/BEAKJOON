@@ -10,3 +10,4 @@
 - 괄호 - [Step03](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/Step03/README.md)
 - 균형잡힌 세상 - [Step04](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/Step04/README.md)
 - 스택 수열 - [Step05](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/Step05/README.md)
+- 오큰수 - [Step06](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/Step06/README.md)
