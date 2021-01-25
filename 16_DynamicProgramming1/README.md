@@ -21,4 +21,5 @@
 - LCS - [Step14](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/Step14/README.md)
 - 연속합 - [Step15](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/Step15/README.md)
 - 평범한 배낭 - [Step16](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/Step16/README.md)
+- 신나는 함수 실행 - [Step17](https://github.com/StudyForCoding/BEAKJOON/tree/master/16_DynamicProgramming1/Step17/README.md)
 

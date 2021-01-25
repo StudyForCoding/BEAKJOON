@@ -16,3 +16,5 @@
 - 패션왕 신해빈 - [Step09](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/Step09/README.md)
 - 팩토리얼 0의 개수 - [Step10](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/Step10/README.md)
 - 조합 0의 개수 - [Step11](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/Step11/README.md)
+- 최소공배수 - [Step12](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/Step12/README.md)
+- 다리 놓기 - [Step13](https://github.com/StudyForCoding/BEAKJOON/tree/master/18_Math3/Step13/README.md)
