@@ -26,6 +26,8 @@
 - [스택](https://github.com/StudyForCoding/BEAKJOON/tree/master/19_Stack/README.md)
 - [큐,덱](https://github.com/StudyForCoding/BEAKJOON/tree/master/20_Queue/README.md)
 - [분할 정복](https://github.com/StudyForCoding/BEAKJOON/tree/master/21_DivdeConquer/README.md)
+- [이분 탐색](https://github.com/StudyForCoding/BEAKJOON/tree/master/22_BinarySearch/README.md)
+- [우선순위 큐](https://github.com/StudyForCoding/BEAKJOON/tree/master/23_PriorityQueue/README.md)
 
 ---
 
