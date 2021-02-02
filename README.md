@@ -28,6 +28,7 @@
 - [분할 정복](https://github.com/StudyForCoding/BEAKJOON/tree/master/21_DivdeConquer/README.md)
 - [이분 탐색](https://github.com/StudyForCoding/BEAKJOON/tree/master/22_BinarySearch/README.md)
 - [우선순위 큐](https://github.com/StudyForCoding/BEAKJOON/tree/master/23_PriorityQueue/README.md)
+- [동적계획법2](https://github.com/StudyForCoding/BEAKJOON/tree/master/24_DynamicProgramming2/README.md)
 
 ---
 
