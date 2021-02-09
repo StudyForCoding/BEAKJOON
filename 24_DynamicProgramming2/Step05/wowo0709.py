@@ -1,9 +1,9 @@
 # 참고 자료: https://source-sc.tistory.com/3
 import sys
 input = sys.stdin.readline
-# now: 현재 올라가 있는 추들의 무게의 차
+# now: 현재 사용할 추의 순번
 # left(right): 왼쪽(오른쪽)에 올라가 있는 추들의 무게
-# new = 현재 사용할 추의 순번
+# new = 가능한 양쪽 추의 무게의 차(=측정 가능한 구슬의 무게)
 def scale(now,left,right):
     new = abs(left-right)
     if new not in dp:  dp.append(new)
