@@ -9,5 +9,6 @@ result[0] = 1
 for c in coin:
 	for i in range(c, k + 1):
 		result[i] += result[i-c]
+	print(result)
 
 print(result[k])

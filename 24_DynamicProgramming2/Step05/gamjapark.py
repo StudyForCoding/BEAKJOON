@@ -8,9 +8,13 @@ check = list(map(int, sys.stdin.readline().split()))
 result = [[0 for _ in range(15001)] for _ in range(31)]
 
 def solve(cur, weight):
-	if cur > n and result[cur][weight]:
+	if result[cur][weight]:
 		return
-	result[cur][weight] = 1;
+
+	result[cur][weight] = 1
+
+	if cur == n:
+		return
 
 	solve(cur+1, weight+arr[cur])
 	solve(cur+1, weight)
