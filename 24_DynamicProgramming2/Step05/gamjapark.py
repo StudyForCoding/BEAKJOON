@@ -12,8 +12,9 @@ def solve(cur, weight):
 		return
 
 	result[cur][weight] = 1
-
+	print(cur, weight)
 	if cur == n:
+		print("quit")
 		return
 
 	solve(cur+1, weight+arr[cur])

@@ -29,6 +29,7 @@
 - [이분 탐색](https://github.com/StudyForCoding/BEAKJOON/tree/master/22_BinarySearch/README.md)
 - [우선순위 큐](https://github.com/StudyForCoding/BEAKJOON/tree/master/23_PriorityQueue/README.md)
 - [동적계획법2](https://github.com/StudyForCoding/BEAKJOON/tree/master/24_DynamicProgramming2/README.md)
+- [DFS와 BFS](https://github.com/StudyForCoding/BEAKJOON/tree/master/25_DFSBFS/README.md)
 
 ---
 
