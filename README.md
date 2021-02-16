@@ -30,6 +30,7 @@
 - [우선순위 큐](https://github.com/StudyForCoding/BEAKJOON/tree/master/23_PriorityQueue/README.md)
 - [동적계획법2](https://github.com/StudyForCoding/BEAKJOON/tree/master/24_DynamicProgramming2/README.md)
 - [DFS와 BFS](https://github.com/StudyForCoding/BEAKJOON/tree/master/25_DFSBFS/README.md)
+- [최단 경로](https://github.com/StudyForCoding/BEAKJOON/tree/master/26_ShortestPath/README.md)
 
 ---
 
@@ -41,4 +42,3 @@
 - 박연지
 - 전영우
 - 최예송
-- 채종의
