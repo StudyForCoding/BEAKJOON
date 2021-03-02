@@ -1,4 +1,4 @@
-# DFS와 BFS
+# 최단 경로
 [백준 26단계](https://www.acmicpc.net/step/26) 문제 풀이
 
 ---
