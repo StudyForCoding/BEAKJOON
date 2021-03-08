@@ -32,6 +32,7 @@
 - [DFS와 BFS](https://github.com/StudyForCoding/BEAKJOON/tree/master/25_DFSBFS/README.md)
 - [최단 경로](https://github.com/StudyForCoding/BEAKJOON/tree/master/26_ShortestPath/README.md)
 - [투 포인터](https://github.com/StudyForCoding/BEAKJOON/tree/master/27_TwoPointer/README.md)
+- [동적 계획법과 최단경로 역추적](https://github.com/StudyForCoding/BEAKJOON/tree/master/28 DPandSPB/README.md)
 
 ---
 
