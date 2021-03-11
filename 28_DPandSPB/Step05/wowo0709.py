@@ -1,5 +1,6 @@
 import sys
 input = sys.stdin.readline
+sys.setrecursionlimit(10**9)
 
 def solve(x,y):
     if x > W or y > W: return 0
@@ -25,7 +26,7 @@ def backtracking(x,y):
         backtracking(x,nc)
     return
 
-
+# main
 N = int(input()) # NxN 도로
 W = int(input()) # 처리해야 하는 사건의 개수
 locs = [(1,1),(N,N)]
