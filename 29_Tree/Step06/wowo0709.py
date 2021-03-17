@@ -1,22 +1,23 @@
 import sys
 sys.setrecursionlimit(10**9)
-def f(start, end):
+def find_postorder(start, end):
     if start > end:
         return
     else:
-        root = pre[start]
+        root = preorder[start]
         div = end + 1
         for pos in range(start+1, end+1):
-            if root < pre[pos]:
+            if root < preorder[pos]:
                 div = pos
                 break
-        f(start+1, div-1)
-        f(div, end)
+        find_postorder(start+1, div-1)
+        find_postorder(div, end)
         print(root)
 
-pre = []
+preorder = []
 while True:
     try:
-        pre.append(int(sys.stdin.readline()))
+        preorder.append(int(sys.stdin.readline()))
     except:
-        pre(0,len(pre)-1)
+        find_postorder(0,len(preorder)-1)
+        sys.exit(0)
