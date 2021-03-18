@@ -1,5 +1,5 @@
-# 동적 계획법과 최단거리 역추적
-[백준 28단계](https://www.acmicpc.net/step/41) 문제 풀이
+# 트리
+[백준 29단계](https://www.acmicpc.net/step/23) 문제 풀이
 
 ---
 
