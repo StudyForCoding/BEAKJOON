@@ -30,7 +30,10 @@ for _ in range(m):
     op,a,b = map(int,input().split())
     if op == 0: union(a,b)
     if op == 1: 
-        if a == find(b) or b == find(a) or find(a) == find(b):
+        # 함수 호출 횟수 줄이기
+        root_a = find(a)
+        root_b = find(b)
+        if a == root_b or b == root_a or root_a == root_b:
             print("YES")
         else:
             print("NO")
