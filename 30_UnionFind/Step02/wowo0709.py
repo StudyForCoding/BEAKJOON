@@ -33,7 +33,10 @@ for i in range(N):
         if tmp[j] == 1: union(i+1,j+1)
 ds = list(map(int,input().split()))
 for i in range(len(ds)-1):
-    if find(ds[i]) == ds[i+1] or find(ds[i+1]) == ds[i] or find(ds[i]) == find(ds[i+1]):
+    # 함수 호출 횟수 줄이기
+    root_a = find(ds[i])
+    root_b = find(ds[i+1])
+    if root_a == ds[i+1] or root_b == ds[i] or root_a == root_b:
         continue
     else:
         print("NO")
