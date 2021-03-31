@@ -36,6 +36,7 @@
 - [트리](https://github.com/StudyForCoding/BEAKJOON/tree/master/29_Tree/README.md)
 - [유니온 파인드](https://github.com/StudyForCoding/BEAKJOON/master/30_UnionFind/README.md)
 - [최소 신장 트리](https://github.com/StudyForCoding/BEAKJOON/master/31_MinimumSpanningTree/README.md)
+- [트리에서의 동적 계획법](https://github.com/StudyForCoding/BEAKJOON/master/32_DynammicProgrammingInTree/README.md)
 
 ---
 
