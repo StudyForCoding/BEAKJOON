@@ -59,12 +59,12 @@ for i in range(N):
             nodeNum += 1
 # 과정 2
 edges = set([])
-max_cnt = [(N,M,'up-down'),(M,N,'left-right')] # 좌우방향, 상하방향
+max_cnt = [(N,M,'left-right'),(M,N,'up-down')] # 좌우방향, 상하방향
 for cnt1,cnt2,cmd in max_cnt:
     for i in range(cnt1):
         w = 0
         for j in range(cnt2):
-            if cmd == 'up-down': cur1,cur2 = i,j
+            if cmd == 'left-right': cur1,cur2 = i,j
             else: cur1,cur2 = j,i
             if w <= 2 and MAP[cur1][cur2] > 1:         # 시작점
                 fromN = MAP[cur1][cur2]
